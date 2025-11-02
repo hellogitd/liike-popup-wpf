@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\work\\project\\cppWinDemo\\WpfAppbb\\",
+  "WorkspaceRootPath": "F:\\work\\project\\cppWinDemo\\liike-popup-wpf\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61997D20-F3C5-4DA4-ABEE-950E6785E27F}|WpfAppbb\\WpfAppbb.csproj|F:\\work\\project\\cppWinDemo\\WpfAppbb\\wpfappbb\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61997D20-F3C5-4DA4-ABEE-950E6785E27F}|WpfAppbb\\WpfAppbb.csproj|F:\\work\\project\\cppWinDemo\\liike-popup-wpf\\wpfappbb\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61997D20-F3C5-4DA4-ABEE-950E6785E27F}|WpfAppbb\\WpfAppbb.csproj|solutionrelative:wpfappbb\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61997D20-F3C5-4DA4-ABEE-950E6785E27F}|WpfAppbb\\WpfAppbb.csproj|f:\\work\\project\\cppwindemo\\wpfappbb\\wpfappbb\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61997D20-F3C5-4DA4-ABEE-950E6785E27F}|WpfAppbb\\WpfAppbb.csproj|solutionrelative:wpfappbb\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61997D20-F3C5-4DA4-ABEE-950E6785E27F}|WpfAppbb\\WpfAppbb.csproj|f:\\work\\project\\cppwindemo\\wpfappbb\\wpfappbb\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{61997D20-F3C5-4DA4-ABEE-950E6785E27F}|WpfAppbb\\WpfAppbb.csproj|f:\\work\\project\\cppwindemo\\liike-popup-wpf\\wpfappbb\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{61997D20-F3C5-4DA4-ABEE-950E6785E27F}|WpfAppbb\\WpfAppbb.csproj|solutionrelative:wpfappbb\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61997D20-F3C5-4DA4-ABEE-950E6785E27F}|WpfAppbb\\WpfAppbb.csproj|f:\\work\\project\\cppwindemo\\wpfappbb\\wpfappbb\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{61997D20-F3C5-4DA4-ABEE-950E6785E27F}|WpfAppbb\\WpfAppbb.csproj|F:\\work\\project\\cppWinDemo\\liike-popup-wpf\\wpfappbb\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61997D20-F3C5-4DA4-ABEE-950E6785E27F}|WpfAppbb\\WpfAppbb.csproj|solutionrelative:wpfappbb\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61997D20-F3C5-4DA4-ABEE-950E6785E27F}|WpfAppbb\\WpfAppbb.csproj|F:\\work\\project\\cppWinDemo\\liike-popup-wpf\\wpfappbb\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{61997D20-F3C5-4DA4-ABEE-950E6785E27F}|WpfAppbb\\WpfAppbb.csproj|solutionrelative:wpfappbb\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -34,36 +34,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "F:\\work\\project\\cppWinDemo\\WpfAppbb\\WpfAppbb\\App.xaml",
-              "RelativeDocumentMoniker": "WpfAppbb\\App.xaml",
-              "ToolTip": "F:\\work\\project\\cppWinDemo\\WpfAppbb\\WpfAppbb\\App.xaml",
-              "RelativeToolTip": "WpfAppbb\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-01T06:45:41.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "F:\\work\\project\\cppWinDemo\\WpfAppbb\\WpfAppbb\\App.xaml.cs",
-              "RelativeDocumentMoniker": "WpfAppbb\\App.xaml.cs",
-              "ToolTip": "F:\\work\\project\\cppWinDemo\\WpfAppbb\\WpfAppbb\\App.xaml.cs",
-              "RelativeToolTip": "WpfAppbb\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T06:13:00.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "F:\\work\\project\\cppWinDemo\\WpfAppbb\\WpfAppbb\\MainWindow.xaml",
+              "DocumentMoniker": "F:\\work\\project\\cppWinDemo\\liike-popup-wpf\\WpfAppbb\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfAppbb\\MainWindow.xaml",
-              "ToolTip": "F:\\work\\project\\cppWinDemo\\WpfAppbb\\WpfAppbb\\MainWindow.xaml",
+              "ToolTip": "F:\\work\\project\\cppWinDemo\\liike-popup-wpf\\WpfAppbb\\MainWindow.xaml",
               "RelativeToolTip": "WpfAppbb\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-29T11:47:38.94Z",
@@ -71,13 +46,37 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\work\\project\\cppWinDemo\\liike-popup-wpf\\WpfAppbb\\App.xaml",
+              "RelativeDocumentMoniker": "WpfAppbb\\App.xaml",
+              "ToolTip": "F:\\work\\project\\cppWinDemo\\liike-popup-wpf\\WpfAppbb\\App.xaml",
+              "RelativeToolTip": "WpfAppbb\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-01T06:45:41.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\work\\project\\cppWinDemo\\liike-popup-wpf\\WpfAppbb\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppbb\\App.xaml.cs",
+              "ToolTip": "F:\\work\\project\\cppWinDemo\\liike-popup-wpf\\WpfAppbb\\App.xaml.cs",
+              "RelativeToolTip": "WpfAppbb\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:13:00.99Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "F:\\work\\project\\cppWinDemo\\WpfAppbb\\WpfAppbb\\MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\work\\project\\cppWinDemo\\liike-popup-wpf\\WpfAppbb\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfAppbb\\MainWindow.xaml.cs",
-              "ToolTip": "F:\\work\\project\\cppWinDemo\\WpfAppbb\\WpfAppbb\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\work\\project\\cppWinDemo\\liike-popup-wpf\\WpfAppbb\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfAppbb\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAowEEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAANwAAAAAAAAAAAAgwLYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T11:47:36.897Z",
               "EditorCaption": ""

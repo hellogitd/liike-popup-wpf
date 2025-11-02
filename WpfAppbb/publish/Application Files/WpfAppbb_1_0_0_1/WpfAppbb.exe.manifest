@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="WpfAppbb.exe" version="1.0.0.1" publicKeyToken="cb9945181cf883c0" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="WpfAppbb" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="WpfAppbb.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 清单选项
+          如果要更改 Windows 用户帐户控制级别，请用以下节点之一替换
+          requestedExecutionLevel 节点。
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+          如果要利用文件和注册表虚拟化提供
+          向后兼容性，请删除 requestedExecutionLevel 节点。
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WpfAppbb.exe" size="18888">
+      <assemblyIdentity name="WpfAppbb" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>UJuPK7yKPLuKDJsDqBja9PsP8y1q85X3jCTp1QtqEnc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="WpfAppbb.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=R55900\aglobabear" issuerKeyHash="b009cb4af53080a2b4acf2cb4e05bf854d8bff65" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>57y06H6WH+htp27i5G3uWN6IqkLi8Efcbtww+oSxQUQ=</DigestValue></Reference></SignedInfo><SignatureValue>Il2ho1332D4Em02XC4NctM4Z4oeXH94qE69hnQJHuMeYg9hm/7Jz/dBcDvuNyjF+uyt2Uc2kWunHoWAoEuA7bCJM0AMJJ6+x2AA1mGa0HKpKOopowPOLt4sGrQDkNV3aSJrH9msdu7tQ9JtF6vod/v3HunC9awYP/SWvYI3OLWc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>r1Ee4nlumclfrUnMTWozhtD5d+sl8rPe7SHsJZ2f1mRZU//BocikuqrDyVTfh5IWSlubv6Q4rVYtZbgsic1FEAviWObHeboUtZM+taW0yc0Xxc/XRg+/ZSHHIhpzFx8l1I+J5ABpflPAn97vqDYz0howHR9/xWjfDhr3Se01yBE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4441b184fa30dc6edc47f0e242aa88de58ee6de4e26ea76de81f967ee8b4bce7" Description="" Url=""><as:assemblyIdentity name="WpfAppbb.exe" version="1.0.0.1" publicKeyToken="cb9945181cf883c0" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=R55900\aglobabear</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>lcm5QbrW1eN9RdCimDMRUKKnHqICI+/Mt925xQZzBw8=</DigestValue></Reference></SignedInfo><SignatureValue>OUO65uP4eMMWyJWN9XUiABXbxk5hhqIJwYSLN99adqs8RE2yN1OFWBFF3RB539R6sanlHkTOwP+emGEYfPEmXJZHQnFvs2BoMqADXj800OKYeIv4KiK2uZTbvES6b8CpDaefRPwN7ySnh+vyXOeaBRqqY13FUugNt4JW1CXM/rs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>r1Ee4nlumclfrUnMTWozhtD5d+sl8rPe7SHsJZ2f1mRZU//BocikuqrDyVTfh5IWSlubv6Q4rVYtZbgsic1FEAviWObHeboUtZM+taW0yc0Xxc/XRg+/ZSHHIhpzFx8l1I+J5ABpflPAn97vqDYz0howHR9/xWjfDhr3Se01yBE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQd0tosEcNvYdCnp3BKSbOgDANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIAUgA1ADUAOQAwADAAXABhAGcAbABvAGIAYQBiAGUAYQByMB4XDTI1MTEwMTA3MDEwMVoXDTI2MTEwMTEzMDEwMVowLTErMCkGA1UEAx4iAFIANQA1ADkAMAAwAFwAYQBnAGwAbwBiAGEAYgBlAGEAcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAr1Ee4nlumclfrUnMTWozhtD5d+sl8rPe7SHsJZ2f1mRZU//BocikuqrDyVTfh5IWSlubv6Q4rVYtZbgsic1FEAviWObHeboUtZM+taW0yc0Xxc/XRg+/ZSHHIhpzFx8l1I+J5ABpflPAn97vqDYz0howHR9/xWjfDhr3Se01yBECAwEAATANBgkqhkiG9w0BAQsFAAOBgQBos8cjzFYnbmS3FDZNDNnpVSwcuLltceb+o1DOScl41tMeZYa6Hfj5ni5eflmCuG9Om0gJXyvd090sn9syjDUJ8cE00i+kIXI8bcw+4/E4xI5ucxnQXtGRBYN0zz+u+fRzBSP2+ONTrZifzVGV3XXTS3Ku+oFYew4QoehJ5Bc8xA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
